@@ -1,0 +1,9 @@
+# /public/
+/node_modules/
+# .babelrc
+# .eslintrc.js
+# .gulpfile.babel.js
+# package.json
+# package-lock.json
+
+# descomenta el resto de archivos y dependencias
